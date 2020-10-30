@@ -1,5 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adamcoryat&show_icons=true&theme=dark)
-
 Full Stack Web Development Student at Boise Code Works
 
 Boise, Idaho, United States
