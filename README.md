@@ -1,6 +1,7 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adamcoryat&show_icons=true&theme=dark)
 
 Full Stack Web Development Student at Boise Code Works
+
 Boise, Idaho, United States
 
 ![alt text][icons]
@@ -11,7 +12,7 @@ I am a Web Developer that emphasis's writing in JS, Vue.Js, Node.js, .Net and C#
 
 ## Resume
 
-[My Resume](https://drive.google.com/file/d/1GuciIzKg_gN_XZ-bO2tuIWNBRpNZMwz3/view?usp=sharing "My Resume(pdf)")
+[My Resume](https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/Adam%20Coryat%20Resume.pdf "My Resume(pdf)")
 
 ## LinkedIn
 
