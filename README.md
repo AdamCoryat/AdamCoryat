@@ -1,5 +1,5 @@
 
-###Adam Coryat
+### Adam Coryat
 
 Full Stack Web Development Student at Boise Code Works
 
