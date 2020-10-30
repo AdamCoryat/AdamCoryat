@@ -3,12 +3,7 @@
 Full Stack Web Development Student at Boise Code Works
 Boise, Idaho, United States
 
-![alt text][c#]
-![alt text][js]
-![alt text][node]
-![alt text][vue]
-![alt text][net]
-![alt text][bootstrap]
+![alt text][icons]
 
 I am a Web Developer that emphasis's writing in JS, Vue.Js, Node.js, .Net and C#. I enjoy coding on the client side as well as the server side. I take pride in my applications as well as i'm always looking to expand my knowledge in the tech industry.
 
@@ -28,12 +23,7 @@ I am a Web Developer that emphasis's writing in JS, Vue.Js, Node.js, .Net and C#
 
 [About Me Doc](https://docs.google.com/document/d/19ufWLIQfrTTRy4aoEwD92K74ROTTmgIeO5lZp1UOF9w/edit?usp=sharing "About Me Document")
 
-[c#]: https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/C%23.png "C#"
-[js]: https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/Java%20Script.png "Java Script 5"
-[node]: https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/Node.png "Node.JS"
-[vue]: https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/vue.png "Vue"
-[net]: https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/C%23NET.png ".NET"
-[bootstrap]: https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/Boot%20Strap%20Logo.png "BootStrap"
+[icons]: https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/C%23.png
 
 <!--
 **AdamCoryat/AdamCoryat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
