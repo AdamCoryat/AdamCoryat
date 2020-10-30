@@ -1,3 +1,11 @@
+<div>
+  <a href="/" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamcoryat&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="/" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=adamcoryat&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
+  </a>
+</div>
 
 ### Adam Coryat
 
@@ -28,15 +36,6 @@ I am a Web Developer that emphasis's writing in JS, Vue.Js, Node.js, .Net and C#
 [About Me Doc](https://docs.google.com/document/d/19ufWLIQfrTTRy4aoEwD92K74ROTTmgIeO5lZp1UOF9w/edit?usp=sharing "About Me Document")
 
 ---
-
-<div>
-  <a href="/" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamcoryat&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
-  </a>
-  <a href="/" align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=adamcoryat&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
-  </a>
-</div>
 
 [icons]: https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/Icons.png
 
