@@ -9,7 +9,7 @@
 
 ### Adam Coryat
 
-Full Stack Web Development Student at Boise Code Works
+Full Stack Software Developer
 
 Boise, Idaho, United States
 
