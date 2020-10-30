@@ -7,13 +7,19 @@
   </a>
 </div>
 
+---
+
 ### Adam Coryat
 
 Full Stack Software Developer
 
 Boise, Idaho, United States
 
+---
+
 ![alt text][icons]
+
+---
 
 I am a Web Developer that emphasis's writing in JS, Vue.Js, Node.js, .Net and C#. I enjoy coding on the client side as well as the server side. I take pride in my applications as well as i'm always looking to expand my knowledge in the tech industry.
 
