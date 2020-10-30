@@ -23,7 +23,7 @@ I am a Web Developer that emphasis's writing in JS, Vue.Js, Node.js, .Net and C#
 
 [About Me Doc](https://docs.google.com/document/d/19ufWLIQfrTTRy4aoEwD92K74ROTTmgIeO5lZp1UOF9w/edit?usp=sharing "About Me Document")
 
-[icons]: https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/C%23.png
+[icons]: https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/Icons.png
 
 <!--
 **AdamCoryat/AdamCoryat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
