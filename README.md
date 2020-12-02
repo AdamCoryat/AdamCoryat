@@ -27,9 +27,9 @@ I am a Web Developer that emphasis's writing in JS, Vue.Js, Node.js, .Net and C#
 
 ## Resume
 
-[My Resume (PDF)](https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/Adam%20Coryat%20Resume.pdf "Resume(pdf)")
+[My Resume (PDF)](https://github.com/AdamCoryat/AdamCoryat/blob/main/Assets/Coryat%20Adam%20Resume.pdf "Resume(pdf)")
 
-[My Resume (Docx)](https://docs.google.com/document/d/1r0PFW_pQ_h_HAsoWicLH0FbPDCFo6xGfvORDy-HwlRI/edit?usp=sharing "Resume(docx)")
+[My Resume (Docx)](https://drive.google.com/file/d/1OpciKy_-O7-SKpy02zE4NLVHocA9vhfj/view?usp=sharing "Resume(docx)")
 
 ## LinkedIn
 
